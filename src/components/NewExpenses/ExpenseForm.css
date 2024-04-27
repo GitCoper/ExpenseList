@@ -8,6 +8,7 @@
   
   .new-expense__control label {
     font-weight: bold;
+    color:rgb(5, 5, 0);
     margin-bottom: 0.5rem;
     display: block;
   }
@@ -16,7 +17,7 @@
     font: inherit;
     padding: 0.5rem;
     border-radius: 6px;
-    border: 1px solid #ccc;
+    border: 1px solid #a69d9d;
     width: 20rem;
     max-width: 100%;
   }
